@@ -1,2 +1,4 @@
 List of ECE Courses
 Web Arch & Cloud Computing
+
+abhishek = Magnetic Resonance Imaging
